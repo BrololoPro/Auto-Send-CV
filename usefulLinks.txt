@@ -1,0 +1,1 @@
+https://stackoverflow.com/questions/72053656/how-to-click-on-pop-up-elements-using-undetected-chromedriver
